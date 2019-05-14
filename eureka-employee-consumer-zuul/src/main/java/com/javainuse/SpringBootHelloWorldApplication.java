@@ -23,9 +23,9 @@ public class SpringBootHelloWorldApplication {
 		
 	}
 	
-	@Bean
+	/*@Bean
 	public  ConsumerControllerClient  consumerControllerClient()
 	{
 		return  new ConsumerControllerClient();
-	}
+	}*/
 }

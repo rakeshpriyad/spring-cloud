@@ -33,11 +33,13 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-zuul</artifactId>
+			<version>1.4.6.RELEASE</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
+			<version>1.4.6.RELEASE</version>
 		</dependency>
 
 	</dependencies>
@@ -47,7 +49,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>Camden.SR6</version>
+				<version>Greenwich.RELEASE</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
